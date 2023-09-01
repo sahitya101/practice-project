@@ -1,3 +1,3 @@
 # practice-project
 This is my practice project
-Author - Sahitya Tyagi
+Author - Sahitya Tyagi (B.tech student)
